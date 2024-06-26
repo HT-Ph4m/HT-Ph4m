@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ht-ph4m&label=Profile%20views&color=0e75b6&style=flat" alt="ht-ph4m" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
-- 🌱 I’m currently learning **GOLANG**
+- 🌱 I’m currently learning **Golang**
 - 💬 Ask me about **Laravel**
 - ⚡ Fun fact **I think I'm funny**
 
